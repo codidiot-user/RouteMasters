@@ -1,0 +1,19 @@
+TO: happy@gmail.com
+SUBJECT: Order Confirmation #2 - Retail Ordering System
+
+Hello Dhanasekar2,
+
+Thank you for your order! Your retail order has been received and is being processed.
+
+Order ID: 2
+Date: 04-06-2026 04:56:17 PM
+Payment Method: Cash
+Total Amount: $15.99
+
+Items Ordered:
+- Mega Double Deal (x1) - $15.99
+
+Status: Pending confirmation
+
+Best Regards,
+Retail Ordering System Team

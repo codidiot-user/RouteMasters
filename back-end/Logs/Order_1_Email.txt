@@ -1,0 +1,19 @@
+TO: dhanasekarselvam920@gmail.com
+SUBJECT: Order Confirmation #1 - Retail Ordering System
+
+Hello Dhanasekar,
+
+Thank you for your order! Your retail order has been received and is being processed.
+
+Order ID: 1
+Date: 04-06-2026 04:09:44 PM
+Payment Method: Cash
+Total Amount: $8.49
+
+Items Ordered:
+- Margherita Pizza (x1) - $8.49
+
+Status: Pending confirmation
+
+Best Regards,
+Retail Ordering System Team
